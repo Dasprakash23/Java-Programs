@@ -1,0 +1,10 @@
+What is Java ?
+ Java is a most popular programming language, which is created in 1995.
+ It is owned by Oracle, and more than 3 billion devices run Java
+
+ Java Example programming
+public class Main{
+    public static void main(String[] args) {
+        String name = "Dasprakash";
+        Syste.out.println("Hello, " + name + "!");
+}

@@ -1,0 +1,36 @@
+Main.Java
+
+public class Main{
+    public static void main(String[]args){
+        System.out.println("Hello, Das")
+    }
+}
+
+Explanation of the above sysntax:
+
+Every line of the code that runs in Java must be inside a class. The class name should always start with an uppercase first letter. In the above example i name the class Main.
+
+The main method:
+
+The main() method is required in every Java program. It is where the program starts running.
+
+Syntax:
+
+Public static void main(String[]args)
+
+System.out.println():
+
+Inside the main() method, we can use the println() method to print a line of text to the screen.
+
+Syntax: 
+
+System.out.println();
+
+Overall Example Program:
+
+public class Demo{
+    public static void main(string[]args){
+        system.out.pintln("Hello, Everyone.)
+        System.out.println("This is sampel java program ")
+    }
+}
