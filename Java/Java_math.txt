@@ -1,0 +1,25 @@
+JAVA MATH
+
+Math.mx(x,y)
+The Math.max(x,y) method can be used to find the highest value of x and y.
+example:
+        Math.max(5,10);
+
+Math.min(x,y):
+The Math.min(x,y) method can be used to find the lowest value of x and y.
+example:
+        Math.min(5,10);
+
+Math.sqrt(x)
+The Math.sqrt(x) method returns the square root of x.
+example:
+        Math.sqrt(64):
+
+Math.abs(x)
+The Math.abs(x) method returns the absolute(positive) value of x.
+example:
+        Math.abs(-4.7);
+Math.pow(x,y)
+The Math.pow(x,y) method returns the value of x raised to the power of y.
+example:
+        Math pow(2,8);
