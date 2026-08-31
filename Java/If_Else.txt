@@ -1,0 +1,22 @@
+JAVA IF_ELSE:
+
+Java Conditions and If Statements
+
+Conditions and if Statements let you control the flow of your program +.
+Think of it like real life: "If it rains, take an umbrella. Otherwise, do nothing. "
+Every if Statemtn needs a conditon that results in true or false.
+This means if statemnts work hand-in-hand with boolean values:
+
+Example:
+        boolean isRaining =true;
+        if (isRaining){
+            System.out.println("Bring an umbrella!");
+        }
+
+THE IF STATMENT:
+THE if statment specifies a block of code to be executed if a condition is true:
+
+Syntax:
+      if(condtion){
+        //block of code to be executed if the condition is true.
+      }
